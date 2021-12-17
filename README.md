@@ -144,7 +144,5 @@ select vin,verified,speed,alert,timest from User;
 ```
 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+## For Version Vise click link below
+https://github.com/dedsec995/Microservices-with-Spring-Boot/tree/v1.7
